@@ -7,15 +7,15 @@ permalink:        pretty
 relative_permalinks: true
 
 # Setup
-title:            Hyde
-tagline:          'A Jekyll theme'
-description:      'A brazen two-column <a href="http://jekyllrb.com" target="_blank">Jekyll</a> theme that pairs a prominent sidebar with uncomplicated content. Made by <a href="https://twitter.com/mdo" target="_blank">@mdo</a>.'
-url:              http://hyde.getpoole.com
+title:            Bridging Futures
+tagline:          '___'
+description:      'UK-based, Ukrainian-led non-profit working to help build a pathway to long-term settlement in the UK for people on the Ukraine visa schemes.'
+url:              https://bridgingfutures.uk
 baseurl:          /
 
 author:
-  name:           'Mark Otto'
-  url:            https://twitter.com/mdo
+  name:           'Bridging Futures'
+  url:            https://bridgingfutures.uk
 
 paginate:         5
 
